@@ -34,5 +34,5 @@ Para iniciar el motor de Cucumber y correr toda la suite de pruebas automatizada
 bash
 npm test
 
-#Reportes
+Reportes
 Al finalizar, el resumen detallado de la ejecución de los escenarios funcionales y estados de aserción se imprimen directamente en la consola del sistema operativo.
