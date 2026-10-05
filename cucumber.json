@@ -1,0 +1,7 @@
+{
+  "default": {
+    "require": ["features/steps/**/*.js"],
+    "paths": ["features/**/*.feature"],
+    "publishQuiet": true
+  }
+}
